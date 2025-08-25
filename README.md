@@ -1,4 +1,4 @@
-# MySQL Data Cleaning and Exploratory Data Analysis
+# MySQL Data Cleaning and Exploratory Data Analysis using MySQL
 
 This project uses MySQL to clean and analyze a dataset, preparing it for further analysis and reporting. It includes SQL scripts for handling missing data, duplicates, and inconsistencies, as well as queries for exploratory data analysis  to uncover insights through aggregations and visualizations.
 
